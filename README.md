@@ -18,6 +18,4 @@ pip install pandas biothings_client
 ```
 
 
-## Example
-
 

@@ -1,7 +1,10 @@
 # pyEnsemblGeneId2GeneNameMassConvert
 
-This utility returns tabular files containing Gene Name and Id from files containing Ensembl GeneId data. 
+Returns tabular files containing Gene Name and Id from files containing Ensembl GeneId data. Suitable for mass conversions.
 Uses `pandas` and `biothings_client`.
+
+Author: A. Corbetta - http://corbetta.phys.tue.nl
+Year: 2020
 
 ## Use as 
 
